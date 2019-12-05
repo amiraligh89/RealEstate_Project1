@@ -1,27 +1,19 @@
-# RealEstate_Project1
+# RealEstate_Project
 
-# Project1
+# Project
 Team Members: 
 Danica Rios
 Anusha Ramachandran
 Daniel Ghaffarian
 
-# Unit 7 Learning Objectives
+This project provides an insight into exploring options for renting vs. buying. Although income has increased significantly in certain cities like San Francisco and San Jose, renting AND purchasing a home over the last 10 years has become unaffordable overall in California
+In certain cities like New York and Washington, D.C., home prices have increased but rent increases have stayed fairly flat. Therefore, it’s better to rent in those markets than it us to buy. 
 
-This document outlines primary learning objectives for Unit 7.
+Limitations to our research included the following:
+Our data doesn’t consider gentrification. That is, are incomes increasing because companies are paying more or are higher earners moving into these areas? Or both?
+Our data does not include property taxes, insurance and HOAs, which significantly increases the cost of owning a home in places like New York and New Jersey. 
+Our data does not include income taxes, which are significantly higher in cities like New York and San Francisco and are nonexistent in Austin, Texas and Seattle, Washington. 
 
-## Learning Objectives
 
-* Students must be able to draw and interpret diagrams of collaborative Git branching workflows.
-* Students must be able to create new branches with Git.
-* Students must be able to push local branches to GitHub.
 
-* Students must be able to pull upstream changes from GitHub.
-* Students must be able to pull from the appropriate branch(es) on GitHub.
-* Students must be able to merge their branches into their local`master` on the command line.
 
-* Students must be able to resolve merge conflicts on their computers.
-* Students must be able to request integration of their changes via PR.
-* Students must be able to approve and merge PRs from GitHub.
-
-* Students should be able to use git `stash` to save "dirty" changes to their working environment.
